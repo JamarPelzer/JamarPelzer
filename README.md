@@ -1,8 +1,8 @@
 <h1>Hi, I'm Jamar, a <a href="https://linkedin.com/in/jamarpelzer">Software Developer</a>☺</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Python Projects :</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
+- <b>TODO APP(A generic To do application)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/JamarPelzer/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/JamarPelzer/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/JamarPelzer/ticket-lifecycle)
