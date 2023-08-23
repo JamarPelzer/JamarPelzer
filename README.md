@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jamar, an <a href="https://linkedin.com/in/jamarpelzer">IT Professional</a>☺</h1>
+<h1>Hi, I'm Jamar, a <a href="https://linkedin.com/in/jamarpelzer">Software Developer</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
