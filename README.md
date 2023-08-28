@@ -12,6 +12,10 @@
     - Geography Learning: The U.S. States Game offers an educational experience, helping you improve your knowledge of U.S. states and their geographical placements.
     - Convenient Exit: You can exit the game anytime by typing "Exit," and your progress will be saved for your next session.
 
+- <b>PassSecure(Simple, Secure Password Management Solution)</b> https://github.com/JamarPelzer/-PassSecure-Password-manager.git
+    - Generate Secure Passwords: The application generates strong passwords consisting of letters (both uppercase and lowercase) and numbers. The passwords are designed to be difficult to guess and enhance security.
+    - Save Passwords: You can save the generated passwords along with the website and email information. The saved data is stored in a text file
+
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
